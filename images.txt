@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 ekho/utorrent:latest
 v2raya/v2raya
+youshandefeiyang/tvm3u
