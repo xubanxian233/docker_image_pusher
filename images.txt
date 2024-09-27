@@ -8,3 +8,5 @@ ekho/utorrent:latest
 v2raya/v2raya
 youshandefeiyang/tvm3u
 iyuucn/iyuuplus
+0nlylty/dockercopilot:ZSPACE
+jxxghp/moviepilot
