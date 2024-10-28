@@ -10,3 +10,4 @@ youshandefeiyang/tvm3u
 iyuucn/iyuuplus
 0nlylty/dockercopilot:ZSPACE
 jxxghp/moviepilot
+ghcr.io/gethomepage/homepage
